@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SortedList</string>
+    <string name="add_new_item">Add Item</string>
+</resources>
